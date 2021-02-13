@@ -19,11 +19,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/scriptjumper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="scriptjumper" height="30" width="40" /></a>
 <a href="https://twitter.com/shaeensingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shaeensingh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shaeen-singh-bb3a74138" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shaeen-singh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shaeen-singh-bb3a74138" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shaeen-singh-bb3a74138" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8512239" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8512239" height="30" width="40" /></a>
+<a href="https://codesandbox.com/scriptjumper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="scriptjumper" height="30" width="40" /></a>
 <a href="https://instagram.com/scriptjumper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="scriptjumper" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCI1UskcNoBaGd9tE5ZWhDbQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="scriptjumper" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/uci1uskcnobagd9te5zwhdbq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uci1uskcnobagd9te5zwhdbq" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/scriptjumper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="scriptjumper" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
