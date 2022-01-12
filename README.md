@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/scriptjumper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/scriptjumper" height="30" width="40" /></a>
-<a href="https://twitter.com/shaeensingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaeensingh" height="30" width="40" /></a>
+<a href="https://twitter.com/scriptjumper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scriptjumper" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shaeen-singh-bb3a74138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/shaeen-singh-bb3a74138" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8512239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/shaeen" height="30" width="40" /></a>
 <a href="https://instagram.com/scriptjumper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/scriptjumper" height="30" width="40" /></a>
