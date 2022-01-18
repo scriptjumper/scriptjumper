@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scriptjumper" alt="scriptjumper" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shaeensingh" target="blank"><img src="https://img.shields.io/twitter/follow/shaeensingh?logo=twitter&style=for-the-badge" alt="shaeensingh" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/shaeensingh" target="blank"><img src="https://img.shields.io/twitter/follow/shaeensingh?logo=twitter&style=for-the-badge" alt="shaeensingh" /></a> </p> -->
 
 - 🔭 I’m currently working on **Building an RTS game using Unity C#**
 
