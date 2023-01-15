@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Shaeen Singh</h1>
+
+<p>
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=scriptjumper&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+<!-- Twitter Followers -->
+<a href="https://twitter.com/scriptjumper" target="blank"><img src="https://img.shields.io/twitter/follow/scriptjumper?logo=twitter&style=flat" alt="scriptjumper" /></a>
+</p>
+
+
 <h3 align="center">A passionate full-stack developer from South Africa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptjumper&label=Profile%20views&color=0e75b6&style=flat" alt="scriptjumper" /> </p>
+## 🏆 GitHub Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scriptjumper" alt="scriptjumper" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/scriptjumper" target="blank"><img src="https://img.shields.io/twitter/follow/scriptjumper?logo=twitter&style=for-the-badge" alt="scriptjumper" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scriptjumper&theme=discord&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="scriptjumper" /></a> </p>
 
 - 🔭 I’m currently working on **Game development with Unity C#**
 
