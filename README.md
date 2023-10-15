@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">I'm Shaeen Singh from South Africa<br><br>- 🔭 I’m working as Staff Engineer<br>- 📚 I'm currently learning Gaming Development<br>- ⚡ In my free time I mostly play games like COD Warzone unless I have some cool idea that I end up programming something around it 😅</p>
+<p align="left">I'm Shaeen Singh from South Africa<br><br>- 🔭 I’m working as Staff Engineer<br>- 📚 I'm currently learning Gaming Development<br>- ⚡ In my free time I mostly play games like COD Warzone unless I have some cool idea that I end up coding something around it 😅</p>
 
 ###
 
